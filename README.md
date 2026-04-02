@@ -1,6 +1,4 @@
-============================================================
 ⚠️ TOXIC FOOD WARNING FOR ANIMALS (Recipes-for-you) ⚠️
-============================================================
 
 Based on the ingredients used in our recipes (Chocolate, 
 Garlic, Onion, Avocado, Dairy, and Salt), here is a 
